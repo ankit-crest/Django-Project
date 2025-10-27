@@ -1,0 +1,24 @@
+<html>
+    <head></head>
+    <body>
+        <h1>Test Data--1</h1>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>City</th>
+                <th>Action</th>
+            </tr>
+    {% for member in members %}
+        <tr>
+            <td>{{ member.name }}</td>
+            <td>{{ member.age }}</td>
+            <td>{{ member.city }}</td>
+            <td><a href="{% url 'members:delete' member.id %}">Del</a></td>
+            <td><a href="{% url 'members:edit' member.id %}">Edt</a></td>
+
+        </tr>
+    {% endfor  %}
+        </table>
+    </body>
+</html>

@@ -1,0 +1,33 @@
+{% load static %}
+<html>
+    <head><title>Members Page</title>
+    <link   rel="stylesheet" type="text/css" href="{% static 'members/members.css' %}">
+    </head>
+    <body>
+        <h1>Members Page</h1>
+        <p>This is members page</p>
+<table>
+    <tr>
+
+        <th>Name</th>
+        <th>Age</th>
+        <th>City</th>
+        <th>Country</th>
+    </tr>
+    
+        {% for member in list %}
+            <tr>
+                <td>{{member.name}}</td>
+                <td>{{member.age}}</td>
+                <td>{{member.city}}</td>
+                <td>{{member.country}}</td>
+            </tr>
+        {% endfor %}
+    </table>
+
+    <img src="/static/img/1.jpeg" alt="image">
+    
+
+
+    </body>  
+</html>

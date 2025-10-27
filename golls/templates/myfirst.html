@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Hello World!</h1>
+<p>Welcome to my first Django project!</p>
+
+<table>
+    <tr>
+        <th>id</th>
+        <th>Name</th>
+        <th>Lanem</th>
+    </tr>
+    {% for item in data %}
+    <tr>
+        <td>{{ item.id }}</td>
+        <td>{{ item.firstName }}</td>
+        <td>{{ item.lastName }}</td>
+        <td><a href="/golls/edit/{{ item.id }}">Edit</a></td>
+        <td><a href="/golls/delete/{{ item.id }}">Delete</a></td>
+    </tr>
+    {% endfor %}
+</table>
+</body>
+</html>

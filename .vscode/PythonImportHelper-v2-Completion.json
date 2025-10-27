@@ -1,0 +1,1102 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "django.template",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.template",
+        "description": "django.template",
+        "detail": "django.template",
+        "documentation": {}
+    },
+    {
+        "label": "loader",
+        "importPath": "django.template",
+        "description": "django.template",
+        "isExtraImport": true,
+        "detail": "django.template",
+        "documentation": {}
+    },
+    {
+        "label": "django.template.context_processors",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "django.template.context_processors",
+        "description": "django.template.context_processors",
+        "isExtraImport": true,
+        "detail": "django.template.context_processors",
+        "documentation": {}
+    },
+    {
+        "label": "model_to_dict",
+        "importPath": "django.forms.models",
+        "description": "django.forms.models",
+        "isExtraImport": true,
+        "detail": "django.forms.models",
+        "documentation": {}
+    },
+    {
+        "label": "model_to_dict",
+        "importPath": "django.forms.models",
+        "description": "django.forms.models",
+        "isExtraImport": true,
+        "detail": "django.forms.models",
+        "documentation": {}
+    },
+    {
+        "label": "gTTS",
+        "importPath": "gtts",
+        "description": "gtts",
+        "isExtraImport": true,
+        "detail": "gtts",
+        "documentation": {}
+    },
+    {
+        "label": "speech_recognition",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "speech_recognition",
+        "description": "speech_recognition",
+        "detail": "speech_recognition",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment",
+        "importPath": "pydub",
+        "description": "pydub",
+        "isExtraImport": true,
+        "detail": "pydub",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "which",
+        "importPath": "pydub.utils",
+        "description": "pydub.utils",
+        "isExtraImport": true,
+        "detail": "pydub.utils",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "isExtraImport": true,
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "Members",
+        "importPath": "members.models",
+        "description": "members.models",
+        "isExtraImport": true,
+        "detail": "members.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "golls.migrations.0001_initial",
+        "description": "golls.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Golls',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('firstName', models.CharField(max_length=200)),",
+        "detail": "golls.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "golls.migrations.0002_student_teacher_alter_golls_lastname_course",
+        "description": "golls.migrations.0002_student_teacher_alter_golls_lastname_course",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('golls', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Student',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "golls.migrations.0002_student_teacher_alter_golls_lastname_course",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "golls.migrations.0003_alter_course_table_alter_golls_table_and_more",
+        "description": "golls.migrations.0003_alter_course_table_alter_golls_table_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('golls', '0002_student_teacher_alter_golls_lastname_course'),\n    ]\n    operations = [\n        migrations.AlterModelTable(\n            name='course',\n            table='courses',\n        ),\n        migrations.AlterModelTable(",
+        "detail": "golls.migrations.0003_alter_course_table_alter_golls_table_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "golls.migrations.0004_test",
+        "description": "golls.migrations.0004_test",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('golls', '0003_alter_course_table_alter_golls_table_and_more'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Test',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=150)),",
+        "detail": "golls.migrations.0004_test",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "golls.migrations.0005_alter_golls_lastname",
+        "description": "golls.migrations.0005_alter_golls_lastname",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('golls', '0004_test'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='golls',\n            name='lastName',\n            field=models.CharField(max_length=200),\n        ),",
+        "detail": "golls.migrations.0005_alter_golls_lastname",
+        "documentation": {}
+    },
+    {
+        "label": "GollsConfig",
+        "kind": 6,
+        "importPath": "golls.apps",
+        "description": "golls.apps",
+        "peekOfCode": "class GollsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'golls'",
+        "detail": "golls.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Golls",
+        "kind": 6,
+        "importPath": "golls.models",
+        "description": "golls.models",
+        "peekOfCode": "class Golls(models.Model):\n    firstName = models.CharField(max_length=200)\n    lastName = models.CharField(max_length=200)\n    class Meta:\n        db_table = 'golls'\nclass Student(models.Model):\n    name = models.CharField(max_length=100)\n    age = models.IntegerField()\n    email = models.EmailField(unique=True)\n    class Meta:",
+        "detail": "golls.models",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "golls.models",
+        "description": "golls.models",
+        "peekOfCode": "class Student(models.Model):\n    name = models.CharField(max_length=100)\n    age = models.IntegerField()\n    email = models.EmailField(unique=True)\n    class Meta:\n        db_table = 'students'\n    def __str__(self):\n        return self.name\nclass Teacher(models.Model):\n    name = models.CharField(max_length=100)",
+        "detail": "golls.models",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "kind": 6,
+        "importPath": "golls.models",
+        "description": "golls.models",
+        "peekOfCode": "class Teacher(models.Model):\n    name = models.CharField(max_length=100)\n    subject = models.CharField(max_length=100)\n    hire_date = models.DateField()\n    class Meta:\n        db_table = 'teachers'\n    def __str__(self):\n        return self.name\nclass Course(models.Model):\n    title = models.CharField(max_length=150)",
+        "detail": "golls.models",
+        "documentation": {}
+    },
+    {
+        "label": "Course",
+        "kind": 6,
+        "importPath": "golls.models",
+        "description": "golls.models",
+        "peekOfCode": "class Course(models.Model):\n    title = models.CharField(max_length=150)\n    description = models.TextField()\n    teacher = models.ForeignKey(Teacher, on_delete=models.CASCADE)\n    students = models.ManyToManyField(Student)\n    class Meta:\n        db_table = 'courses'\n    def __str__(self):\n        return self.title   \nclass Test(models.Model):",
+        "detail": "golls.models",
+        "documentation": {}
+    },
+    {
+        "label": "Test",
+        "kind": 6,
+        "importPath": "golls.models",
+        "description": "golls.models",
+        "peekOfCode": "class Test(models.Model):\n    title = models.CharField(max_length=150)\n    description = models.TextField()\n    teacher = models.ForeignKey(Teacher, on_delete=models.CASCADE)\n    students = models.ManyToManyField(Student)\n    class Meta:\n        db_table = 'tests'\n    def __str__(self):\n        return self.title",
+        "detail": "golls.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "golls.urls",
+        "description": "golls.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.index, name='index'),\n    path('add/', views.add, name='add'),\n    path('show/<slug>/', views.show, name='show'),\n    path('list/', views.show_list, name='list'),\n    path('add_gls/', views.add_gls, name='add_gls'),\n    path('edit/<str:id>/', views.edit, name='edit'),\n    path('delete/<str:id>/', views.delete, name='delete'),\n    path('textInput/', views.textInput, name='textInput'),\n    path('speak_text/', views.speak_text, name='speak_text'),",
+        "detail": "golls.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def index(request):\n    return HttpResponse(\"Hello, world. You're at the golls index.\")\ndef add(request):\n    return HttpResponse(\"Call Add data.\")\ndef show(request,slug):\n    return HttpResponse(f\"Call Show data for {slug}.\")\ndef show_list(request):\n      template = loader.get_template('myfirst.html')\n      context = {}\n      return HttpResponse(template.render(context, request))",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "add",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def add(request):\n    return HttpResponse(\"Call Add data.\")\ndef show(request,slug):\n    return HttpResponse(f\"Call Show data for {slug}.\")\ndef show_list(request):\n      template = loader.get_template('myfirst.html')\n      context = {}\n      return HttpResponse(template.render(context, request))\ndef show_next_list(request):\n      template=loader.get_template('myfirst.html')",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "show",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def show(request,slug):\n    return HttpResponse(f\"Call Show data for {slug}.\")\ndef show_list(request):\n      template = loader.get_template('myfirst.html')\n      context = {}\n      return HttpResponse(template.render(context, request))\ndef show_next_list(request):\n      template=loader.get_template('myfirst.html')\n      context = {}\n      return HttpResponse(template.render(context, request))",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "show_list",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def show_list(request):\n      template = loader.get_template('myfirst.html')\n      context = {}\n      return HttpResponse(template.render(context, request))\ndef show_next_list(request):\n      template=loader.get_template('myfirst.html')\n      context = {}\n      return HttpResponse(template.render(context, request))\ndef textInput(request):\n      template=loader.get_template('inputText.html')",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "show_next_list",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def show_next_list(request):\n      template=loader.get_template('myfirst.html')\n      context = {}\n      return HttpResponse(template.render(context, request))\ndef textInput(request):\n      template=loader.get_template('inputText.html')\n      context = {}\n      return HttpResponse(template.render(context, request))\ndef voice_speak_view(request):\n      template=loader.get_template('speak_and_listen.html')",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "textInput",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def textInput(request):\n      template=loader.get_template('inputText.html')\n      context = {}\n      return HttpResponse(template.render(context, request))\ndef voice_speak_view(request):\n      template=loader.get_template('speak_and_listen.html')\n      context = {}\n      return HttpResponse(template.render(context, request))\ndef add_gls(request):\n    gls = Gls(firstName=\"John\", lastName=\"Doe\")",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "voice_speak_view",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def voice_speak_view(request):\n      template=loader.get_template('speak_and_listen.html')\n      context = {}\n      return HttpResponse(template.render(context, request))\ndef add_gls(request):\n    gls = Gls(firstName=\"John\", lastName=\"Doe\")\n    # gls.save()   \n    gls_objects = Gls.objects.all()\n    data = []\n    for obj in gls_objects:",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_gls",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def add_gls(request):\n    gls = Gls(firstName=\"John\", lastName=\"Doe\")\n    # gls.save()   \n    gls_objects = Gls.objects.all()\n    data = []\n    for obj in gls_objects:\n        data.append({\n            \"id\": obj.id,\n            \"firstName\": obj.firstName,\n            \"lastName\": obj.lastName,",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def edit(request,id):\n    gls=Gls.objects.get(id=id)\n    data = model_to_dict(gls)\n    gls.firstName = \"John-\"+id\n    gls.lastName = \"Doe-\"+id\n    gls.save()\n    gls=Gls.objects.get(id=id)\n    data = model_to_dict(gls)\n    return redirect('add_gls') \n    return JsonResponse(data, safe=False)",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def delete(request,id):\n    gls=Gls.objects.get(id=id)\n    gls.delete()\n    gls=Gls.objects.get()\n    data = model_to_dict(gls)\n    # return JsonResponse(data, safe=False)\n    return redirect('add_gls') \ndef speak_text(request):\n    # text = request.GET.get('text', '')\n    text = \"This is the text file\"",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "speak_text",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def speak_text(request):\n    # text = request.GET.get('text', '')\n    text = \"This is the text file\"\n    if not text:\n        return HttpResponse(\"No text provided\")\n    # Convert text to speech\n    tts = gTTS(text)\n    audio_fp = io.BytesIO()\n    tts.write_to_fp(audio_fp)\n    audio_fp.seek(0)",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "voice_page",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def voice_page(request):\n      template=loader.get_template('voice_page.html')\n      context = {}\n      return HttpResponse(template.render(context, request))\n# Ensure pydub finds ffmpeg\nimport os\nFFMPEG_PATH = r\"C:\\ffmpeg\\bin\\ffmpeg.exe\"  # Update this\n# Check if ffmpeg exists\nif not os.path.isfile(FFMPEG_PATH):\n    raise FileNotFoundError(f\"ffmpeg not found at {FFMPEG_PATH}\")",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "process_audio",
+        "kind": 2,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "def process_audio(request):\n    # return JsonResponse({\"error\": f\"Speech recognition failed:\"})\n    if request.method == \"POST\" and request.FILES.get(\"audio\"):\n        audio_file = request.FILES[\"audio\"]\n        if not audio_file:\n            return JsonResponse({\"error\": \"No audio file uploaded\"})\n        # Convert uploaded audio to proper WAV\n        try:\n         audio_segment = AudioSegment.from_file(audio_file)  # auto detects format\n         wav_io = io.BytesIO()",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment.converter",
+        "kind": 5,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "AudioSegment.converter = r\"C:\\ffmpeg\\bin\\ffmpeg.exe\"\n# Create your views here.\ndef index(request):\n    return HttpResponse(\"Hello, world. You're at the golls index.\")\ndef add(request):\n    return HttpResponse(\"Call Add data.\")\ndef show(request,slug):\n    return HttpResponse(f\"Call Show data for {slug}.\")\ndef show_list(request):\n      template = loader.get_template('myfirst.html')",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "FFMPEG_PATH",
+        "kind": 5,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "FFMPEG_PATH = r\"C:\\ffmpeg\\bin\\ffmpeg.exe\"  # Update this\n# Check if ffmpeg exists\nif not os.path.isfile(FFMPEG_PATH):\n    raise FileNotFoundError(f\"ffmpeg not found at {FFMPEG_PATH}\")\nAudioSegment.converter = FFMPEG_PATH\ndef process_audio(request):\n    # return JsonResponse({\"error\": f\"Speech recognition failed:\"})\n    if request.method == \"POST\" and request.FILES.get(\"audio\"):\n        audio_file = request.FILES[\"audio\"]\n        if not audio_file:",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "AudioSegment.converter",
+        "kind": 5,
+        "importPath": "golls.views",
+        "description": "golls.views",
+        "peekOfCode": "AudioSegment.converter = FFMPEG_PATH\ndef process_audio(request):\n    # return JsonResponse({\"error\": f\"Speech recognition failed:\"})\n    if request.method == \"POST\" and request.FILES.get(\"audio\"):\n        audio_file = request.FILES[\"audio\"]\n        if not audio_file:\n            return JsonResponse({\"error\": \"No audio file uploaded\"})\n        # Convert uploaded audio to proper WAV\n        try:\n         audio_segment = AudioSegment.from_file(audio_file)  # auto detects format",
+        "detail": "golls.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "members.migrations.0001_initial",
+        "description": "members.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Members',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100)),",
+        "detail": "members.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "MembersConfig",
+        "kind": 6,
+        "importPath": "members.apps",
+        "description": "members.apps",
+        "peekOfCode": "class MembersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'members'",
+        "detail": "members.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Members",
+        "kind": 6,
+        "importPath": "members.models",
+        "description": "members.models",
+        "peekOfCode": "class Members(models.Model):\n    name = models.CharField(max_length=100)\n    age = models.IntegerField()\n    city = models.CharField(max_length=100)\n    class Meta:\n        db_table = 'members'\n    def __str__(self):\n        return self.name",
+        "detail": "members.models",
+        "documentation": {}
+    },
+    {
+        "label": "app_name",
+        "kind": 5,
+        "importPath": "members.urls",
+        "description": "members.urls",
+        "peekOfCode": "app_name = 'members' \nurlpatterns = [\n    path('', memberRoute.index, name='index'),\n    path('add_members/', memberRoute.add_members, name='add_members'),\n    path('create/', memberRoute.create, name='add_create'),\n    path('store/', memberRoute.store, name='store'),\n    path('delete/<int:id>/', memberRoute.delete, name='delete'),\n    path('edit/<int:id>/', memberRoute.edit, name='edit'),\n    path('update/<int:id>', memberRoute.update, name='update'),\n    path('ajax_create/', memberRoute.ajax_create, name='ajax_create'),",
+        "detail": "members.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "members.urls",
+        "description": "members.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', memberRoute.index, name='index'),\n    path('add_members/', memberRoute.add_members, name='add_members'),\n    path('create/', memberRoute.create, name='add_create'),\n    path('store/', memberRoute.store, name='store'),\n    path('delete/<int:id>/', memberRoute.delete, name='delete'),\n    path('edit/<int:id>/', memberRoute.edit, name='edit'),\n    path('update/<int:id>', memberRoute.update, name='update'),\n    path('ajax_create/', memberRoute.ajax_create, name='ajax_create'),\n    path('getlist/', memberRoute.getlist, name='getlist'),",
+        "detail": "members.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def index(request):\n    members = Members.objects.all()\n    # gls_objects = members\n    # data = []\n    # for obj in gls_objects:\n    #     data.append({\"id\": obj.id, \"name\": obj.name, \"age\": obj.age})\n    # return JsonResponse(data, safe=False)                \n    return render(request,'index.html',{'members':members})\ndef add_members(request):\n    members = Members(name=\"Name\",age=10,city=\"City\")",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_members",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def add_members(request):\n    members = Members(name=\"Name\",age=10,city=\"City\")\n    members.save()\n    members_list = Members.objects.all()\n    data = []\n    for obj in members_list:\n        data.append({\n            \"id\": obj.id,\n            \"firstName\": obj.name,\n            \"age\": obj.age,",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "create",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def create(request):\n    if request.method == 'POST':\n        name = request.POST.get('name')\n        age = request.POST.get('age')\n        city = request.POST.get('city')\n        return JsonResponse({'name': name, 'age': age, 'city': city}, safe=False)\n    context = {}\n    return render(request, 'members/create.html', context)  \ndef store(request):\n    if request.method == 'POST':",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "store",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def store(request):\n    if request.method == 'POST':\n        name = request.POST.get('name')\n        age = request.POST.get('age')\n        city = request.POST.get('city')\n        Members(name=name,age=age,city=city).save()\n    return redirect('members:index') \ndef delete(request,id):\n    Members.objects.filter(id=id).delete()\n    return redirect('members:index') ",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def delete(request,id):\n    Members.objects.filter(id=id).delete()\n    return redirect('members:index') \ndef edit(request,id):\n    members=Members.objects.get(id=id)\n    return render(request, 'members/edit.html', {'data':members})  \ndef update(request,id):\n    if request.method == 'POST':\n        name = request.POST.get('name')\n        age = request.POST.get('age')",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "edit",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def edit(request,id):\n    members=Members.objects.get(id=id)\n    return render(request, 'members/edit.html', {'data':members})  \ndef update(request,id):\n    if request.method == 'POST':\n        name = request.POST.get('name')\n        age = request.POST.get('age')\n        city = request.POST.get('city')\n        Members.objects.filter(id=id).update(name=name,age=age,city=city)\n    return redirect('members:index') ",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "update",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def update(request,id):\n    if request.method == 'POST':\n        name = request.POST.get('name')\n        age = request.POST.get('age')\n        city = request.POST.get('city')\n        Members.objects.filter(id=id).update(name=name,age=age,city=city)\n    return redirect('members:index') \ndef ajax_create(request):\n    if request.method == 'POST':\n        name = request.POST.get('name')",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "ajax_create",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def ajax_create(request):\n    if request.method == 'POST':\n        name = request.POST.get('name')\n        age = request.POST.get('age')\n        city = request.POST.get('city')\n        Members(name=name,age=age,city=city).save()\n        return JsonResponse({'message':'success'}, safe=False)\n    return render(request, 'members/ajax/create.html')\ndef getlist(request):\n    members = Members.objects.all().values()",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "getlist",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def getlist(request):\n    members = Members.objects.all().values()\n    return JsonResponse({'members': list(members)}, safe=False)\ndef ajax_delete(request,id):\n    Members.objects.filter(id=id).delete()\n    return JsonResponse({'message':'successfully delete'}, safe=False)\ndef ajax_edit(request,id):\n    members = Members.objects.get(id=id)\n    return JsonResponse({'members':model_to_dict(members)}, safe=False)\ndef ajax_update(request,id):",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "ajax_delete",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def ajax_delete(request,id):\n    Members.objects.filter(id=id).delete()\n    return JsonResponse({'message':'successfully delete'}, safe=False)\ndef ajax_edit(request,id):\n    members = Members.objects.get(id=id)\n    return JsonResponse({'members':model_to_dict(members)}, safe=False)\ndef ajax_update(request,id):\n    if request.method == 'POST':\n        name = request.POST.get('name')\n        age = request.POST.get('age')",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "ajax_edit",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def ajax_edit(request,id):\n    members = Members.objects.get(id=id)\n    return JsonResponse({'members':model_to_dict(members)}, safe=False)\ndef ajax_update(request,id):\n    if request.method == 'POST':\n        name = request.POST.get('name')\n        age = request.POST.get('age')\n        city = request.POST.get('city')\n        Members.objects.filter(id=id).update(name=name,age=age,city=city)\n    return JsonResponse({'message':'successfully update'}, safe=False)",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "ajax_update",
+        "kind": 2,
+        "importPath": "members.views",
+        "description": "members.views",
+        "peekOfCode": "def ajax_update(request,id):\n    if request.method == 'POST':\n        name = request.POST.get('name')\n        age = request.POST.get('age')\n        city = request.POST.get('city')\n        Members.objects.filter(id=id).update(name=name,age=age,city=city)\n    return JsonResponse({'message':'successfully update'}, safe=False)",
+        "detail": "members.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "mysite.asgi",
+        "description": "mysite.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "mysite.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-xi(f8u4r&3v(cbm^#53q#2js9d%-r8r-@%br3ox$g()q-3v#vz'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-xi(f8u4r&3v(cbm^#53q#2js9d%-r8r-@%br3ox$g()q-3v#vz'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'golls',",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'golls',\n    'members'\n]",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'mysite.urls'",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "ROOT_URLCONF = 'mysite.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / \"templates\"],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [BASE_DIR / \"templates\"],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n                'django.contrib.messages.context_processors.messages',",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'mysite.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.2/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "mysite.settings",
+        "description": "mysite.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "mysite.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "mysite.urls",
+        "description": "mysite.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('polls/', include('polls.urls')),\n    path('golls/', include('golls.urls')),\n    path('members/', include('members.urls')),\n]",
+        "detail": "mysite.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "mysite.wsgi",
+        "description": "mysite.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "mysite.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "PollsConfig",
+        "kind": 6,
+        "importPath": "polls.apps",
+        "description": "polls.apps",
+        "peekOfCode": "class PollsConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'polls'",
+        "detail": "polls.apps",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "polls.urls",
+        "description": "polls.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.index, name='index'),\n]",
+        "detail": "polls.urls",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "polls.views",
+        "description": "polls.views",
+        "peekOfCode": "def index(request):\n    return HttpResponse(\"Hello, world. You're at the polls index.\")",
+        "detail": "polls.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

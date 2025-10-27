@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Voice → Text → Speak</title>
+</head>
+<body>
+    <h1>Speak and Hear Yourself</h1>
+    
+    <button id="startBtn">Start Listening</button>
+    <p id="output"></p>
+
+    <script>
+        const startBtn = document.getElementById('startBtn');
+        const output = document.getElementById('output');
+
+        // Check for browser support
+        const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+        const recognition = new SpeechRecognition();
+
+        recognition.continuous = false;
+        recognition.interimResults = false;
+        recognition.lang = 'en-US';
+
+        recognition.onresult = function(event) {
+            const transcript = event.results[0][0].transcript;
+            output.innerText = transcript;
+
+            // Speak back the text
+            const utterance = new   (transcript);
+            utterance.rate = 1;
+            speechSynthesis.speak(utterance);
+        }
+
+        recognition.onerror = function(event) {
+            console.error(event.error);
+        }
+
+        startBtn.addEventListener('click', () => {
+            recognition.start();
+        });
+    </script>
+</body>
+</html>
