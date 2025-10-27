@@ -6,10 +6,10 @@ from .models import Golls as Gls
 from django.forms.models import model_to_dict
 from gtts import gTTS
 # import speech_recognition as sr 
-from pydub import AudioSegment
+# from pydub import AudioSegment
 import io
 # from pydub.utils import which
-AudioSegment.converter = r"C:\ffmpeg\bin\ffmpeg.exe"
+# AudioSegment.converter = r"C:\ffmpeg\bin\ffmpeg.exe"
 
 # Create your views here.
 
@@ -110,7 +110,7 @@ FFMPEG_PATH = r"C:\ffmpeg\bin\ffmpeg.exe"  # Update this
 if not os.path.isfile(FFMPEG_PATH):
     raise FileNotFoundError(f"ffmpeg not found at {FFMPEG_PATH}")
 
-AudioSegment.converter = FFMPEG_PATH
+# AudioSegment.converter = FFMPEG_PATH
 
 # def process_audio(request):
 
