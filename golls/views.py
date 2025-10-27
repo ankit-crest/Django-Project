@@ -5,10 +5,10 @@ from django.template.context_processors import request
 from .models import Golls as Gls
 from django.forms.models import model_to_dict
 from gtts import gTTS
-import speech_recognition as sr 
+# import speech_recognition as sr 
 from pydub import AudioSegment
 import io
-from pydub.utils import which
+# from pydub.utils import which
 AudioSegment.converter = r"C:\ffmpeg\bin\ffmpeg.exe"
 
 # Create your views here.
@@ -112,47 +112,47 @@ if not os.path.isfile(FFMPEG_PATH):
 
 AudioSegment.converter = FFMPEG_PATH
 
-def process_audio(request):
-    # return JsonResponse({"error": f"Speech recognition failed:"})
-    if request.method == "POST" and request.FILES.get("audio"):
-        audio_file = request.FILES["audio"]
+# def process_audio(request):
 
-        if not audio_file:
-            return JsonResponse({"error": "No audio file uploaded"})
+#     if request.method == "POST" and request.FILES.get("audio"):
+#         audio_file = request.FILES["audio"]
 
-        # Convert uploaded audio to proper WAV
-        try:
-         audio_segment = AudioSegment.from_file(audio_file)  # auto detects format
-         wav_io = io.BytesIO()
-         audio_segment.export(wav_io, format="wav")
-         wav_io.seek(0)
-        except Exception as e:
-            # ffmpeg_path = which("ffmpeg")
-            return JsonResponse({"ffmpeg_path": audio_segment})
-            return JsonResponse({"error": f"Audio conversion failed: {str(e)}"})
+#         if not audio_file:
+#             return JsonResponse({"error": "No audio file uploaded"})
 
-        # Speech recognition
-        recognizer = sr.Recognizer()
-        try:
-            with sr.AudioFile(wav_io) as source:
-                audio = recognizer.record(source)
-            text = recognizer.recognize_google(audio)
+#         # Convert uploaded audio to proper WAV
+#         try:
+#          audio_segment = AudioSegment.from_file(audio_file)  # auto detects format
+#          wav_io = io.BytesIO()
+#          audio_segment.export(wav_io, format="wav")
+#          wav_io.seek(0)
+#         except Exception as e:
+#             # ffmpeg_path = which("ffmpeg")
+#             return JsonResponse({"ffmpeg_path": audio_segment})
+#             return JsonResponse({"error": f"Audio conversion failed: {str(e)}"})
+
+#         # Speech recognition
+#         recognizer = sr.Recognizer()
+#         try:
+#             with sr.AudioFile(wav_io) as source:
+#                 audio = recognizer.record(source)
+#             text = recognizer.recognize_google(audio)
            
-        except Exception as e:
-            return JsonResponse({"error": f"Speech recognition failed: {str(e)}"})
+#         except Exception as e:
+#             return JsonResponse({"error": f"Speech recognition failed: {str(e)}"})
 
-        # Convert text to speech using gTTS
-        try:
-            tts = gTTS(text)
-            audio_fp = io.BytesIO()
-            tts.write_to_fp(audio_fp)
-            audio_fp.seek(0)
-        except Exception as e:
-            return JsonResponse({"error": f"TTS failed: {str(e)}"})
+#         # Convert text to speech using gTTS
+#         try:
+#             tts = gTTS(text)
+#             audio_fp = io.BytesIO()
+#             tts.write_to_fp(audio_fp)
+#             audio_fp.seek(0)
+#         except Exception as e:
+#             return JsonResponse({"error": f"TTS failed: {str(e)}"})
 
-        # Return MP3 audio response
-        response = HttpResponse(audio_fp.read(), content_type="audio/mpeg")
-        response["Content-Disposition"] = 'inline; filename="response.mp3"'
-        return response
+#         # Return MP3 audio response
+#         response = HttpResponse(audio_fp.read(), content_type="audio/mpeg")
+#         response["Content-Disposition"] = 'inline; filename="response.mp3"'
+#         return response
 
-    return JsonResponse({"error": "No audio received"})
+#     return JsonResponse({"error": "No audio received"})
