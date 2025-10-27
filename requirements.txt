@@ -4,6 +4,6 @@ whitenoise
 djangorestframework
 psycopg2-binary
 gtts
-speech_recognition
+# speech_recognition
 pydub
 io
